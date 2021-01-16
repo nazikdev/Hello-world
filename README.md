@@ -1,2 +1,2 @@
-# Hello-world
-My sdudent repository
+My name is Nazik. 
+Now I am studying how to use github. 
